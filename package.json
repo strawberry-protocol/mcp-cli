@@ -1,6 +1,6 @@
 {
-  "name": "@wong2/mcp-cli",
-  "version": "1.4.0",
+  "name": "@strawberryprotocol/mcp-cli",
+  "version": "1.4.1",
   "description": "A CLI inspector for the Model Context Protocol",
   "bin": {
     "mcp-cli": "src/cli.js"
